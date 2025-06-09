@@ -1,0 +1,6 @@
+@DentsplySironaAPI_HostAddress = http://localhost:5023
+
+GET {{DentsplySironaAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
